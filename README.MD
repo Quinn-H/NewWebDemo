@@ -1,3 +1,3 @@
-#How to start
+ ## How to start
 npm install
 npm run dev
